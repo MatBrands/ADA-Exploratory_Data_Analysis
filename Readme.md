@@ -9,7 +9,7 @@
 
 Este projeto tem como objetivo a conclusão do Módulo II do curso Data4All.
 
-A especificação completa do projeto pode ser encontrada em: [Projeto Final]()
+A especificação completa do projeto pode ser encontrada em: [Projeto Final](https://github.com/MatBrands/ADA-Exploratory_Data_Analysis/blob/master/utils/Projeto%20Final.md)
 
 ## Conteúdo
 
