@@ -31,11 +31,11 @@ Projeto desenvolvido pelos Devs:
 - [Vinicius Rocha Pinheiro]()
 
 ## Recomendações
-Ao desenvolver uma nova funcionalidade o dev deverá informar de maneira breve e sucinta sobre o que foi feito.
-Em relação aos commits será utilizado um padrão
-Commits de novas features. Ex: git commit -m "New: Readme"
-Commits de updates. Ex: git commit -m "Updated: Readme"
-Commits de remoção. Ex: git commit -m "Removed: Readme"
+- Ao desenvolver uma nova funcionalidade o dev deverá informar de maneira breve e sucinta sobre o que foi feito.
+- Em relação aos commits será utilizado um padrão:
+    - Commits de novas features. Ex: git commit -m "New: Readme"
+    - Commits de updates. Ex: git commit -m "Updated: Readme"
+    - Commits de remoção. Ex: git commit -m "Removed: Readme"
 
 
 ## Base de dados
