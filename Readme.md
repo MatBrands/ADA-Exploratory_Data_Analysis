@@ -14,6 +14,7 @@ A especificação completa do projeto pode ser encontrada em: [Projeto Final]()
 ## Conteúdo
 
 - Integrantes
+- Recomendações
 - Base de dados
 - Instalação
 - Organização do projeto
@@ -23,15 +24,23 @@ A especificação completa do projeto pode ser encontrada em: [Projeto Final]()
 Projeto desenvolvido pelos Devs:
 
 - [Amanda Borges Matos Santana Magalhaes]()
-- [Cauli Vilela Ferreira]()
-- [Gabriel Soares Moreira]()
+- [Cauli Vilela Ferreira](https://github.com/coquizin)
+- [Gabriel Soares Moreira](https://github.com/moreiragabrielsoares)
 - [João Victor Carvalho]()
-- [Matheus Miranda Brandão]()
+- [Matheus Miranda Brandão](https://github.com/MatBrands/)
 - [Vinicius Rocha Pinheiro]()
+
+## Recomendações
+Ao desenvolver uma nova funcionalidade o dev deverá informar de maneira breve e sucinta sobre o que foi feito.
+Em relação aos commits será utilizado um padrão
+Commits de novas features. Ex: git commit -m "New: Readme"
+Commits de updates. Ex: git commit -m "Updated: Readme"
+Commits de remoção. Ex: git commit -m "Removed: Readme"
+
 
 ## Base de dados
 
-Para obtenção da base de dados pública foi utilizada o sistema [Kaggle](https://www.kaggle.com/).
+Para obtenção da base de dados *pública* foi utilizada o sistema [Kaggle](https://www.kaggle.com/).
 A base de dados escolhida para o projeto foi "...", que pode ser encontrada através deste [link]().
 
 Dentre diversas vantagens encontradas nesta base de dados, podemos pontuar:

@@ -1,0 +1,8 @@
+name: ada_eda_venv
+channels:
+  - conda-forge
+dependencies:
+  - python
+  - pip
+  - numpy
+  - pandas
