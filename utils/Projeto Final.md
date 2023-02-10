@@ -18,7 +18,7 @@ Na mesma planilha de composição dos grupos insiram o link para o github de pel
 A apresentação poderá ser construída no formato de preferência (jupyter notebook, power point..)  
   
 **Tempo de apresentação**  
-Cada grupo terá no máximo 15 minutos para apresentar o EDA  
+Cada grupo terá no máximo 10 minutos para apresentar o EDA  
   
 **Avaliação**  
 Para a avaliação serão considerados os seguintes pontos
