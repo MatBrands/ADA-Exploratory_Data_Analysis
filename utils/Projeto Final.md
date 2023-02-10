@@ -9,7 +9,7 @@ Realizar um EDA (Exploratory Data Analysis) com os conhecimentos obtidos até o 
 Cada grupo será responsável por buscar uma base de dados de seu interesse  
   
 **Composição dos grupos**  
-A composição dos grupos está descrita no arquivo excel presente no google drive [Grupos-projeto](https://docs.google.com/spreadsheets/d/1rRB961L8Rffc8QfvRoSVAHezoMX0R145MFdVyMA1rtY/edit?usp=share_link) 
+A composição dos grupos está descrita no arquivo excel presente no google drive *Grupos-projeto*
   
 **Github**  
 Na mesma planilha de composição dos grupos insiram o link para o github de pelo menos um dos integrantes no qual o projeto será armazenado.  
