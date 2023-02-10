@@ -23,7 +23,7 @@ A especificação completa do projeto pode ser encontrada em: [Projeto Final](ht
 ## Integrantes
 Projeto desenvolvido pelos Devs:
 
-- [Amanda Borges Matos Santana Magalhaes]()
+- [Amanda Borges Matos Santana Magalhaes](https://github.com/magalhaesaamanda)
 - [Cauli Vilela Ferreira](https://github.com/coquizin)
 - [Gabriel Soares Moreira](https://github.com/moreiragabrielsoares)
 - [João Victor Carvalho]()
