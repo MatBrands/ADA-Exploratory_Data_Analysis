@@ -28,7 +28,7 @@ Projeto desenvolvido pelos Devs:
 - [Gabriel Soares Moreira](https://github.com/moreiragabrielsoares)
 - [João Victor Carvalho]()
 - [Matheus Miranda Brandão](https://github.com/MatBrands/)
-- [Vinicius Rocha Pinheiro]()
+- [Vinicius Rocha Pinheiro](https://github.com/vini-pinheiro)
 
 ## Recomendações
 - Ao desenvolver uma nova funcionalidade o dev deverá informar de maneira breve e sucinta sobre o que foi feito.
