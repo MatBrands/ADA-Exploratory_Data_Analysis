@@ -37,7 +37,6 @@ Projeto desenvolvido pelos Devs:
     - Commits de updates. Ex: git commit -m "Updated: Readme"
     - Commits de remoção. Ex: git commit -m "Removed: Readme"
 
-
 ## Base de dados
 
 Para obtenção da base de dados *pública* foi utilizada o sistema [Kaggle](https://www.kaggle.com/).
