@@ -1,10 +1,10 @@
 # ADA-Exploratory_Data_Analysis
 ![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)
 
-- Instituição: Let's Code;
-- Curso: Data4All;
-- Disciplina: Técnicas de Programação I;
-- Professores: Bruno Issamo & ...;
+- Instituição: Let's Code
+- Curso: Data4All
+- Disciplina: Técnicas de Programação I
+- Professores: Bruno Issamo & ...
 - Alunos: Amanda Borges Matos Santana Magalhaes, Cauli Vilela Ferreira, Gabriel Soares Moreira, João Victor Carvalho, Matheus Miranda Brandão, Vinicius Rocha Pinheiro.
 
 Este projeto tem como objetivo a conclusão do Módulo II do curso Data4All.
