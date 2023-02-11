@@ -26,7 +26,7 @@ Projeto desenvolvido pelos Devs:
 - [Amanda Borges Matos Santana Magalhaes](https://github.com/magalhaesaamanda)
 - [Cauli Vilela Ferreira](https://github.com/coquizin)
 - [Gabriel Soares Moreira](https://github.com/moreiragabrielsoares)
-- [João Victor Carvalho]()
+- [João Victor Carvalho](https://github.com/jvDATA)
 - [Matheus Miranda Brandão](https://github.com/MatBrands/)
 - [Vinicius Rocha Pinheiro](https://github.com/vini-pinheiro)
 
