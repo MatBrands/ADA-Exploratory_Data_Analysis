@@ -6,4 +6,5 @@ dependencies:
   - pip
   - numpy
   - pandas
+  - tqdm
   - ipykernel
