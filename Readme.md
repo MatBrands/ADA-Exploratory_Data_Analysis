@@ -1,4 +1,4 @@
-# ADA-Exploratory_Data_Analysis
+# ADA - Exploratory Data Analysis
 ![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)
 
 - Instituição: Let's Code
@@ -31,6 +31,7 @@ Projeto desenvolvido pelos Devs:
 - [Vinicius Rocha Pinheiro](https://github.com/vini-pinheiro)
 
 ## Recomendações
+- Cada desenvolvedor possuirá um notebook destinado à sua própria análise exploratória.
 - Ao desenvolver uma nova funcionalidade o dev deverá informar de maneira breve e sucinta sobre o que foi feito.
 - Em relação aos commits será utilizado um padrão:
     - Commits de novas features. Ex: git commit -m "New: Readme"
@@ -40,7 +41,7 @@ Projeto desenvolvido pelos Devs:
 ## Base de dados
 
 Para obtenção da base de dados *pública* foi utilizada o sistema [Kaggle](https://www.kaggle.com/).
-A base de dados escolhida para o projeto foi "...", que pode ser encontrada através deste [link]().
+A base de dados escolhida para o projeto foi a *Top 100 popular movies from 2003 to 2022 (iMDB)* que pode ser encontrada através deste [link](https://www.kaggle.com/datasets/georgescutelnicu/top-100-popular-movies-from-2003-to-2022-imdb).
 
 Dentre diversas vantagens encontradas nesta base de dados, podemos pontuar:
 - ...
@@ -101,8 +102,27 @@ deactivate
 
 ## Organização do projeto
 ```sh
-...
+ADA-Exploratory_Data_Analysis
+├── License
+├── Readme.md
+├── datasets
+│   ├── processed
+│   │   └── Readme.md
+│   └── raw
+│       └── movies.csv
+├── notebooks
+│   ├── edas
+│   │   ├── amanda.ipynb
+│   │   ├── cauli.ipynb
+│   │   ├── gabriel.ipynb
+│   │   ├── joao_victor.ipynb
+│   │   ├── matheus.ipynb
+│   │   └── vinicius.ipynb
+│   └── main.ipynb
+└── utils
+    ├── environment.yml
+    ├── Projeto Final.md
+    └── requirements.txt
 ```
-
 
 ## Contribuições
