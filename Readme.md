@@ -107,7 +107,7 @@ ADA-Exploratory_Data_Analysis
 ├── Readme.md
 ├── datasets
 │   ├── processed
-│   │   └── Readme.md
+│   │   └── movies.pkl
 │   └── raw
 │       └── movies.csv
 ├── notebooks
@@ -118,7 +118,8 @@ ADA-Exploratory_Data_Analysis
 │   │   ├── joao_victor.ipynb
 │   │   ├── matheus.ipynb
 │   │   └── vinicius.ipynb
-│   └── main.ipynb
+│   ├── main.ipynb
+│   └── tratative.ipynb
 └── utils
     ├── environment.yml
     ├── Projeto Final.md
