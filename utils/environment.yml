@@ -7,4 +7,6 @@ dependencies:
   - numpy
   - pandas
   - tqdm
+  - matplotlib
+  - seaborn
   - ipykernel
