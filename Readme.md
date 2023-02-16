@@ -7,18 +7,34 @@
 - Professores: Bruno Issamo & Gabriel Novais
 - Alunos: Amanda Borges Matos Santana Magalhaes, Cauli Vilela Ferreira, Gabriel Soares Moreira, João Victor Carvalho, Matheus Miranda Brandão, Vinicius Rocha Pinheiro.
 
-Este projeto tem como objetivo a conclusão do Módulo II do curso Data4All.
+Este projeto é uma exploração do [dataset](https://www.kaggle.com/datasets/georgescutelnicu/top-100-popular-movies-from-2003-to-2022-imdb) fornecido pelo Kaggle. O foco é explorar os dados e descobrir quaisquer insights interessantes ou padrões que possam estar presentes.
 
 A especificação completa do projeto pode ser encontrada em: [Projeto Final](https://github.com/MatBrands/ADA-Exploratory_Data_Analysis/blob/master/utils/Projeto%20Final.md).
 
 ## Conteúdo
 
+- Descrição dos Dados
+- Objetivos
+- Ferramentas Usadas
 - Integrantes
 - Recomendações
-- Base de dados
 - Instalação
 - Organização do projeto
 - Contribuições
+
+## Descrição dos Dados
+O conjunto de dados consiste em uma variedade de recursos, como título, nota do imdb, ano e mês de lançamento, classificação indicativa, duração, atores, diretores, genêros, países de locação e país de origem. Também inclui informações sobre o orçamento e retorno financeiro de cada filme no conjunto de dados.
+
+## Objetivos
+ Os objetivos deste projeto são: 
+
+- Demonstrar as habilidades obtidas em aula;
+- Entender melhor os dados disponíveis;
+- Descobrir padrões e relações entre as variáveis;
+- Ajudar na tomada de decisão baseada em dados.
+
+## Ferramentas Usadas 
+Este projeto foi concluído usando Python e suas bibliotecas associadas, como NumPy, Pandas, Matplotlib, Seaborn.
 
 ## Integrantes
 Projeto desenvolvido pelos Devs:
@@ -37,14 +53,6 @@ Projeto desenvolvido pelos Devs:
     - Commits de novas features. Ex: git commit -m "New: Readme"
     - Commits de updates. Ex: git commit -m "Updated: Readme"
     - Commits de remoção. Ex: git commit -m "Removed: Readme"
-
-## Base de dados
-
-Para obtenção da base de dados *pública* foi utilizada o sistema [Kaggle](https://www.kaggle.com/).
-A base de dados escolhida para o projeto foi a *Top 100 popular movies from 2003 to 2022 (iMDB)* que pode ser encontrada através deste [link](https://www.kaggle.com/datasets/georgescutelnicu/top-100-popular-movies-from-2003-to-2022-imdb).
-
-Dentre diversas vantagens encontradas nesta base de dados, podemos pontuar:
-- ...
 
 ## Instalação
 Foi utilizado o [Python](https://www.python.org/) v3.10.9.
