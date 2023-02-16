@@ -135,3 +135,10 @@ ADA-Exploratory_Data_Analysis
 ```
 
 ## Contribuições
+As contribuições são sempre bem-vindas em projetos de análise exploratória de dados. Se você é um desenvolvedor, cientista de dados ou analista, pode contribuir para o projeto de várias maneiras, tais como:
+
+- Criar novos notebooks;
+- Desenvolver novas análises;
+- Encontrar e corrigir erros;
+- Ajudar a documentar o código;
+- Refatorar o código existente.
