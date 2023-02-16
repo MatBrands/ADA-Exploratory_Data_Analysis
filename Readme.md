@@ -7,7 +7,7 @@
 - Professores: Bruno Issamo & Gabriel Novais
 - Alunos: Amanda Borges Matos Santana Magalhaes, Cauli Vilela Ferreira, Gabriel Soares Moreira, João Victor Carvalho, Matheus Miranda Brandão, Vinicius Rocha Pinheiro.
 
-Este projeto é uma exploração do [dataset](https://www.kaggle.com/datasets/georgescutelnicu/top-100-popular-movies-from-2003-to-2022-imdb) fornecido pelo Kaggle. O foco é explorar os dados e descobrir quaisquer insights interessantes ou padrões que possam estar presentes.
+Este projeto é uma exploração do [dataset](https://www.kaggle.com/datasets/georgescutelnicu/top-100-popular-movies-from-2003-to-2022-imdb) fornecido pelo [Kaggle](https://www.kaggle.com/). O foco é explorar os dados e descobrir quaisquer insights interessantes ou padrões que possam estar presentes.
 
 A especificação completa do projeto pode ser encontrada em: [Projeto Final](https://github.com/MatBrands/ADA-Exploratory_Data_Analysis/blob/master/utils/Projeto%20Final.md).
 
@@ -55,7 +55,7 @@ Projeto desenvolvido pelos Devs:
     - Commits de remoção. Ex: git commit -m "Removed: Readme"
 
 ## Instalação
-Foi utilizado o [Python](https://www.python.org/) v3.10.9.
+Foi utilizado o [Python](https://www.python.org/) v3.11.
 
 ### Conda
 No desenvolvimento foi utilizado o gerenciador de pacotes e ambientes [Conda](https://conda.io/). Portanto para prosseguir necessita-se de sua [instalação](https://conda.io/projects/conda/en/latest/user-guide/install/index.html).
