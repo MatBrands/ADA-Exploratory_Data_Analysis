@@ -34,7 +34,7 @@ O conjunto de dados consiste em uma variedade de recursos, como título, nota do
 - Ajudar na tomada de decisão baseada em dados.
 
 ## Ferramentas Usadas 
-Este projeto foi concluído usando Python e suas bibliotecas associadas, como NumPy, Pandas, Matplotlib, Seaborn.
+Este projeto foi concluído usando Python e suas bibliotecas associadas, como NumPy, Pandas, Geopandas, Tqdm, Matplotlib, Seaborn, Plotly, Bokeh e Ipykernel.
 
 ## Integrantes
 Projeto desenvolvido pelos Devs:
