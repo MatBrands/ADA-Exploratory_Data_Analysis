@@ -1,6 +1,9 @@
 numpy
 pandas
+geopandas
 tqdm
 matplotlib
 seaborn
+plotly
+bokeh
 ipykernel
