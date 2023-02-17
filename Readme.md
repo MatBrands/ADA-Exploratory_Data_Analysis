@@ -7,7 +7,7 @@
 - Professores: Bruno Issamo & Gabriel Novais
 - Alunos: Amanda Borges Matos Santana Magalhaes, Cauli Vilela Ferreira, Gabriel Soares Moreira, João Victor Carvalho, Matheus Miranda Brandão, Vinicius Rocha Pinheiro.
 
-Este projeto é uma exploração do [dataset](https://www.kaggle.com/datasets/georgescutelnicu/top-100-popular-movies-from-2003-to-2022-imdb) fornecido pelo [Kaggle](https://www.kaggle.com/). O foco é explorar os dados e descobrir quaisquer insights interessantes ou padrões que possam estar presentes.
+Este projeto é uma exploração dos datasets: [Top 100 popular movies from 2003 to 2022 (iMDB)](https://www.kaggle.com/datasets/georgescutelnicu/top-100-popular-movies-from-2003-to-2022-imdb) e [The Oscar Award, 1927 - 2023](https://www.kaggle.com/datasets/unanimad/the-oscar-award), ambos fornecidos pelo [Kaggle](https://www.kaggle.com/). O foco é explorar os dados e descobrir quaisquer insights interessantes ou padrões que possam estar presentes.
 
 A especificação completa do projeto pode ser encontrada em: [Projeto Final](https://github.com/MatBrands/ADA-Exploratory_Data_Analysis/blob/master/utils/Projeto%20Final.md).
 
@@ -114,10 +114,16 @@ ADA-Exploratory_Data_Analysis
 ├── License
 ├── Readme.md
 ├── datasets
+│   ├── georef
+│   │   ├── world_countries.dbf
+│   │   ├── world_countries.shp
+│   │   └── world_countries.shx
 │   ├── processed
-│   │   └── movies.pkl
+│   │   ├── movies.pkl
+│   │   └── the_oscar_award.pkl
 │   └── raw
-│       └── movies.csv
+│       ├── movies.csv
+│       └── the_oscar_award.csv
 ├── notebooks
 │   ├── edas
 │   │   ├── amanda.ipynb
@@ -126,8 +132,10 @@ ADA-Exploratory_Data_Analysis
 │   │   ├── joao_victor.ipynb
 │   │   ├── matheus.ipynb
 │   │   └── vinicius.ipynb
-│   ├── main.ipynb
-│   └── tratative.ipynb
+│   ├── tratative
+│   │   ├── movies.ipynb
+│   │   └── oscar.ipynb
+│   └── main.ipynb
 └── utils
     ├── environment.yml
     ├── Projeto Final.md
